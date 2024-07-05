@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+svg {
+  margin: 0;
+}
+
+.node rect {
+  stroke: #222225;
+  fill: #fafafd;
+}
+
+.edgePath path {
+  stroke: #222225;
+  fill: #222225;
+  stroke-width: 1.5px;
+}
