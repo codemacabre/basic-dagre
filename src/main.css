@@ -5,17 +5,21 @@
   overflow: hidden;
 }
 
+html {
+  background: #fafafa;
+}
+
 svg {
   margin: 0;
 }
 
 .node rect {
-  stroke: #222225;
-  fill: #fafafd;
+  stroke: #222222;
+  fill: #fafafa;
 }
 
 .edgePath path {
-  stroke: #222225;
-  fill: #222225;
+  stroke: #222222;
+  fill: #222222;
   stroke-width: 1.5px;
 }
